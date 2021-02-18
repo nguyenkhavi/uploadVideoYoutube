@@ -1,0 +1,16 @@
+{
+    "web": {
+        "client_id": "566442862703-b18k8q8l3nntalpjq94c7445etcnbqmr.apps.googleusercontent.com",
+        "project_id": "upload-get-link",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "DF43StOKlAVqIn5IH-6OJuBo",
+        "redirect_uris": [
+            "http://localhost:5000/google/callback"
+        ],
+        "javascript_origins": [
+            "http://localhost:5000"
+        ]
+    }
+}
